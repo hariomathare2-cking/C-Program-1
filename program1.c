@@ -1,4 +1,4 @@
-1. Program to Demonstrate Basic I/O Functions Using Different Data Types
+//1. Program to Demonstrate Basic I/O Functions Using Different Data Types
 #include <stdio.h>
 
 int main()
