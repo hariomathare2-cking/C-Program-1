@@ -22,3 +22,4 @@ int main()
 area();
 
 return 0;
+}
